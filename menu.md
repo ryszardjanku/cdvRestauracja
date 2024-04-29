@@ -2,7 +2,7 @@
 
 ## Menu śniadaniowe
 
-### Kanapki
+### Kanapki i Croissanty
 ### Śniadania
 ### Naleśniki
 
@@ -14,6 +14,9 @@
 - Bulion
 - Krem szparagowy
 ### Dania główne
+- Udko z kaczki
+- Ragout z królika
+- Jagnięcina z navarin warzywnym
 
 ## Desery
 
