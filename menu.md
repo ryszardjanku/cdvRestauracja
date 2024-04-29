@@ -34,3 +34,12 @@
 |2. |Sauvignon Blanc |Francja     |19zł  |75zł |
 |3. |Riesling        |Niemcy      |19zł  |75zł |
 |4. |Pinot Grigio    |Włochy      |25zł  |85zł |
+
+### Czerwone Wina
+
+|Lp.|Szczep            |Pochodzenie |15cl  |75cl |
+|---|------------------|------------|------|-----|
+|1. |Merlot            |Chile       |19zł  |75zł |
+|2. |Cabernet Sauvignon|Francja     |25zł  |85zł |
+|3. |Pinot Noir        |Francja     |25zł  |85zł |
+|4. |Shiraz            |Włochy      |29zł  |90zł |
