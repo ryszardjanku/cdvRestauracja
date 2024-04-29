@@ -4,8 +4,8 @@
 
 ### Kanapki i Croissanty
 - Croissant z twarogiem, rzodkiewką, jajkiem w koszulce 35zł
+- Croissant z szynką parmeńską, i rukolą 35zł
 - Tost francuski na słodko 30zł
-- Croissant z szynką i serem 18zł
 ### Śniadania
 ### Naleśniki
 
