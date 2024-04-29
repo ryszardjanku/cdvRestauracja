@@ -26,6 +26,12 @@
 
 <img src = "zdjecia/pobrane.jpg" width=150>
 
+- Ratatouille 45zł
+- Potrawka z marchewki i buraka 45zł
+- Stek z cukini 55zł
+
+<img src = "zdjecia/kamil-kalbarczyk-19Ft3QfakMo-unsplash.jpg" width=150>
+
 ## Desery
 
 - Tiramisu 35zł
