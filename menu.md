@@ -3,26 +3,35 @@
 ## Menu śniadaniowe
 
 ### Kanapki i Croissanty
+
 - Croissant z twarogiem, rzodkiewką, jajkiem w koszulce 35zł
-<img src = "zdjecia/_DSC8769b-12-1.jpg" width=150>
 - Croissant z szynką parmeńską, i rukolą 35zł
 - Tost francuski na słodko 30zł
-### Śniadania
-### Naleśniki
+
+<img src = "zdjecia/_DSC8769b-12-1.jpg" width=150>
 
 ## Menu obiadowe
 
-### Przystawki
 ### Zupy
 - Zupa cebulowa 25zł
 - Bulion 19zł
 - Krem szparagowy 25zł
+
+<img src = "zdjecia/358643-v-1000x1000.jpg" width=150>
+
 ### Dania główne
 - Udko z kaczki 45zł
 - Ragout z królika 55zł
 - Jagnięcina z navarin warzywnym 75zł
 
+<img src = "zdjecia/pobrane.jpg" width=150>
+
 ## Desery
+
+- Tiramisu 35zł
+- Creme brulee 25zł
+
+<img src = "zdjecia/tiramisu-dysfagia.jpg" width=150>
 
 ## Napoje
 
