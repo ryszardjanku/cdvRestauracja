@@ -28,9 +28,9 @@
 
 ### Białe Wina
 
-|Lp. |Szczep |Pochodzenie |15cl |75cl |
-|---|--------|-------------------------|------|-------|
-|1. |Chardonnay |Australia |15zł |60zł |
-|2. |Sauvignon Blanc |Francja |19zł |75zł |
-|3. |Riesling |Niemcy |19zł |75zł |
-|4. |Pinot Grigio |Włochy |25zł |85zł |
+|Lp.|Szczep          |Pochodzenie |15cl  |75cl |
+|---|----------------|------------|------|-----|
+|1. |Chardonnay      |Australia   |15zł  |60zł |
+|2. |Sauvignon Blanc |Francja     |19zł  |75zł |
+|3. |Riesling        |Niemcy      |19zł  |75zł |
+|4. |Pinot Grigio    |Włochy      |25zł  |85zł |
