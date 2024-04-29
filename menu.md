@@ -10,6 +10,9 @@
 
 ### Przystawki
 ### Zupy
+- Zupa cebulowa
+- Bulion
+- Krem szparagowy
 ### Dania główne
 
 ## Desery
