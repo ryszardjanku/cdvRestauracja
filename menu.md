@@ -3,6 +3,9 @@
 ## Menu śniadaniowe
 
 ### Kanapki i Croissanty
+- Croissant z twarogiem, rzodkiewką, jajkiem w koszulce
+- Tost francuski na słodko
+- Croissant z szynką i serem
 ### Śniadania
 ### Naleśniki
 
