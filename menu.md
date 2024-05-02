@@ -41,6 +41,11 @@
 
 ## Napoje
 
+- Lemoniada 19zł
+- Soki owocowe 10zł
+- Napoje gazowane 10zł
+- Woda 7zł
+
 ### Białe Wina
 
 |Lp.|Szczep          |Pochodzenie |15cl  |75cl |
