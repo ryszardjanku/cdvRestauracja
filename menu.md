@@ -41,6 +41,11 @@
 
 ## Napoje
 
+- Lemoniada
+- Soki owocowe
+- Napoje gazowane
+- Woda
+
 ### Białe Wina
 
 |Lp.|Szczep          |Pochodzenie |15cl  |75cl |
