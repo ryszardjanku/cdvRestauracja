@@ -41,10 +41,10 @@
 
 ## Napoje
 
-- Lemoniada
-- Soki owocowe
-- Napoje gazowane
-- Woda
+- Lemoniada 19zł
+- Soki owocowe 10zł
+- Napoje gazowane 10zł
+- Woda 7zł
 
 ### Białe Wina
 
