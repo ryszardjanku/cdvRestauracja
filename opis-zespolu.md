@@ -1,3 +1,8 @@
 # Zespół
 
-Opis zespołu
+## Kierownik
+## Dostawca
+## Grafik
+## Kucharz
+## Księgowa
+## Kelner
