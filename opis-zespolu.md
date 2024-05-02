@@ -5,3 +5,4 @@
 ## Grafik
 ## Kucharz
 ## Księgowa
+## Kelner
