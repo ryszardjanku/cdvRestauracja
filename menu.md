@@ -46,6 +46,8 @@
 - Napoje gazowane 10zł
 - Woda 7zł
 
+<img src = "zdjecia/Lemoniada.jpg" width=150>
+
 ### Białe Wina
 
 |Lp.|Szczep          |Pochodzenie |15cl  |75cl |
