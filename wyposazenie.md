@@ -1,54 +1,55 @@
-### Wyposażenie
+### Equipment
 
-1. Sprzęt kuchenny
-  - Piec
-  - Zmywarka
-  - Deski do krojenia
-  - Noże
-  - Garniki, patelnie
-  - Lodówki
-  - Mikser
-  - Zamrażarki
+1. Kitchen equipment
+- Oven
+- Dishwasher
+- Cutting boards
+- Knives
+- Pots, pans
+- Refrigerators
+- Mixer
+- Freezers
 ---
 
-2. Stoły
-  - Obrusy
-  - Serwetki
-  - Tace
-  - Poduszki do krzeseł
+2. Tables
+- Tablecloths
+- Napkins
+- Trays
+- Chair cushions
 ---
 
-3. Biuro
-- Komputer
-- Drukarka
-- Skaner
-- Telefon
-- Zszywacz
-- Taśma klejąca
-- Długopisy
-- Ołówki
+3. Office
+- Computer
+- Printer
+- Scanner
+- Telephone
+- Stapler
+- Scotch tape
+- Pens
+- Pencils
+
 ---
 
-4. Naczynia i opakowania na wynos
-  - Sztućce
-  - Szklanki
-  - Kieliszki
-  - Talerze
-  - Dzbanki
-  - Filiżanki
+4. Tableware and Takeout Packaging
+- Cutlery
+- Glasses
+- Goblets
+- Plates
+- Jugs
+- Cups
 ---
 
-5. Bezpieczeństwo
-- Gaśnice
-- Oświetlenie awaryjne
-- Czujki przeciwpożarowe
-- Kamery
+5. Safety
+- Fire extinguishers
+- Emergency lighting
+- Fire detectors
+- Cameras
 ---
 
-6. Higiena
-- Mydła
-- Ręczniki papierowe
-- Rękawiczki jednorazowe
-- Worki na śmieci
+6. Hygene
+- Soaps
+- Paper towels
+- Disposable gloves
+- Trash bags
 ---
 
