@@ -45,8 +45,9 @@
 - Soki owocowe 10zł
 - Napoje gazowane 10zł
 - Woda 7zł
-
+ 
 <img src = "zdjecia/Lemoniada.jpg" width=150>
+
 
 ### Białe Wina
 
