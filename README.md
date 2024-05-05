@@ -1,6 +1,5 @@
-# cdvRestauracja
-Repozytorium 'cdvRestauracja' to kompletny zestaw kluczowych dokumentów i plików niezbędnych do stworzenia wyjątkowej restauracji w stylu francuskim. W repozytorium znajdziesz wszystko, co potrzebne, aby rozpocząć projekt restauracji od podstaw, obejmując koncepcje menu, utworzenie zespołu, zebranie przepisów oraz inne istotne dokumenty.
+# cdvRestaurant
+The 'cdvRestauracja' repository is a complete set of key documents and files necessary for creating a unique French-style restaurant. In the repository, you will find everything needed to start a restaurant project from scratch, including menu concepts, team formation, recipe collection, and other essential documents.
 
-Autorzy repozytorium to: ryszardjanku, rjfork, rjbranch.
+The authors of the repository are: ryszardjanku, rjfork, rjbranch.
 
-Konflikt branchy vege i main został tu rozwiązany
