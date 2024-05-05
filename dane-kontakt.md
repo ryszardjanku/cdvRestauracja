@@ -29,7 +29,7 @@ Instagram: @labellecuisine_poznan
 
 ---
 Zamówisz również na:
-Glovo.pl/menu/la-belle-cuisine
-Wolt.pl/menu/la-belle-cuisine
-Ubereats.pl/menu/la-belle-cuisine
-Pyszne.pl/menu/la-belle-cuisine
+- Glovo.pl/menu/la-belle-cuisine
+- Wolt.pl/menu/la-belle-cuisine
+- Ubereats.pl/menu/la-belle-cuisine
+- bPyszne.pl/menu/la-belle-cuisine
