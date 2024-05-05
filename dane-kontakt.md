@@ -1,35 +1,35 @@
 # Kontakt
 
-### Restauracja La Belle Cuisine
-Leśna 20, 61-111 Poznań
+### La Belle Cuisine Restaurant
+20 Leśna Street, 61-111 Poznań
 
 ---
-Godziny otwarcia:
-Poniedziałek - Piątek: 12:00 - 22:00
-Sobota - Niedziela: 11:00 - 23:00
+Opening hours:
+Monday - Friday: 12:00 - 22:00
+Saturday - Sunday: 11:00 - 23:00
 
 ---
-Rezerwacja stolików:
+Table reservation:
 Tel.: +48 125 631 121
 E-mail: rezerwacja@labellecuisine.pl
 
 ---
-Zamówienie do domu:
+Home delivery:
 Tel.: +48 121 241 156
 
 ---
-Obsługa klienta:
+Customer service:
 Tel.: +48 123 456 789
 E-mail: kontakt@labellecuisine.pl
 
 ---
-Media społecznościowe:
+Social media:
 Facebook: /labellecuisinepoznan
 Instagram: @labellecuisine_poznan
 
 ---
-Zamówisz również na:
+You can also order via:
 - Glovo.pl/menu/la-belle-cuisine
 - Wolt.pl/menu/la-belle-cuisine
 - Ubereats.pl/menu/la-belle-cuisine
-- bPyszne.pl/menu/la-belle-cuisine
+- Pyszne.pl/menu/la-belle-cuisine
