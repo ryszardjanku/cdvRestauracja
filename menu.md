@@ -17,6 +17,8 @@
 - Kruche quiche - 19zł
 - Ptasie mleczko z kremem ziołowym - 19zł
 
+<img src = "zdjecia/quiche.jpg" width=150>
+
 ### Zupy
 - Zupa cebulowa 25zł
 - Bulion 19zł
