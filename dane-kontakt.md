@@ -26,3 +26,10 @@ E-mail: kontakt@labellecuisine.pl
 Media społecznościowe:
 Facebook: /labellecuisinepoznan
 Instagram: @labellecuisine_poznan
+
+---
+Zamówisz również na:
+Glovo.pl/menu/la-belle-cuisine
+Wolt.pl/menu/la-belle-cuisine
+Ubereats.pl/menu/la-belle-cuisine
+Pyszne.pl/menu/la-belle-cuisine
