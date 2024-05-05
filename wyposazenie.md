@@ -39,8 +39,16 @@
 ---
 
 5. Bezpieczeństwo
+- Gaśnice
+- Oświetlenie awaryjne
+- Czujki przeciwpożarowe
+- Kamery
 ---
 
 6. Higiena
+- Mydła
+- Ręczniki papierowe
+- Rękawiczki jednorazowe
+- Worki na śmieci
 ---
 
