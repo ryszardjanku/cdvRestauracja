@@ -1,8 +1,8 @@
 # Przepisy
+*Do uzupełnienia przez kucharza*
+
 
 Lista przepisów:
-
-**Do uzupełnienia przez kucharza**
 
 ## Ragout z królika
 
