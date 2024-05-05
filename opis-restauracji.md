@@ -11,6 +11,10 @@ Nie zapomnij zakończyć swojej podróży po francuskich smakach odrobiną słod
 Czekamy na Ciebie w "La Belle Cuisine", abyś mógł doświadczyć prawdziwej francuskiej gościnności i delektować się wyjątkowymi smakami kuchni tego pięknego kraju.
 
 
+<img src = "zdjecia/wnetrze_2.jpg" width=250> <img src = "zdjecia/wnetrze_1.jpg" width=400>  <img src = "zdjecia/wnetrze_3.jpg" width=250>
+
+
+
 
 
 
