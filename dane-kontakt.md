@@ -1,11 +1,28 @@
 # Kontakt
 
-### Restauracja Pod Lasem
- Leśna 20, 61-111 Poznań
+### Restauracja La Belle Cuisine
+Leśna 20, 61-111 Poznań
 
+---
+Godziny otwarcia:
+Poniedziałek - Piątek: 12:00 - 22:00
+Sobota - Niedziela: 11:00 - 23:00
+
+---
 Rezerwacja stolików:
-tel.: +48 111 111 111
-rezerwacja@podlasem.pl
+Tel.: +48 125 631 121
+E-mail: rezerwacja@labellecuisine.pl
 
+---
 Zamówienie do domu:
-tel.: +48 111 111 112
+Tel.: +48 121 241 156
+
+---
+Obsługa klienta:
+Tel.: +48 123 456 789
+E-mail: kontakt@labellecuisine.pl
+
+---
+Media społecznościowe:
+Facebook: /labellecuisinepoznan
+Instagram: @labellecuisine_poznan

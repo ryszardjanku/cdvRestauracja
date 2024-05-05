@@ -1,6 +1,6 @@
 # cdvRestauracja
-Repozytorium zawiera wszelkie kluczowe dokumenty i pliki do stworzenia unikatowej restauracji w stylu francuskim.
+Repozytorium 'cdvRestauracja' to kompletny zestaw kluczowych dokumentów i plików niezbędnych do stworzenia wyjątkowej restauracji w stylu francuskim. W repozytorium znajdziesz wszystko, co potrzebne, aby rozpocząć projekt restauracji od podstaw, obejmując koncepcje menu, utworzenie zespołu, zebranie przepisów oraz inne istotne dokumenty.
 
-Nad repozytorium pracowali: ryszardjanku, rjfork, rjbranch
+Autorzy repozytorium to: ryszardjanku, rjfork, rjbranch.
 
 Konflikt branchy vege i main został tu rozwiązany
