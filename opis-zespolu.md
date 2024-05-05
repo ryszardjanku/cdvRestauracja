@@ -8,7 +8,7 @@
 
 *Dostawca odpowiedzialny jest za dostarczanie świeżych produktów i składników, zapewnienie terminowej dostawy oraz utrzymanie wysokich standardów jakościowych w zaopatrzeniu.*
 
-## Grafik - Aleks Laskowska
+## Grafik - Aleksandra Laskowska
 
 *Grafik odpowiada za projektowanie menu, materiałów promocyjnych oraz innych elementów wizualnych restauracji, dbając o estetykę i spójność wizerunku marki.* 
 
