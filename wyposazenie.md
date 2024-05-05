@@ -14,18 +14,28 @@
 2. Stoły
   - Obrusy
   - Serwetki
-  - Sztućce
-  - Szklanki
-  - Kieliszki
   - Tace
-  - Dzbanki
-  - Talerze
+  - Poduszki do krzeseł
 ---
 
 3. Biuro
+- Komputer
+- Drukarka
+- Skaner
+- Telefon
+- Zszywacz
+- Taśma klejąca
+- Długopisy
+- Ołówki
 ---
 
 4. Naczynia i opakowania na wynos
+  - Sztućce
+  - Szklanki
+  - Kieliszki
+  - Talerze
+  - Dzbanki
+  - Filiżanki
 ---
 
 5. Bezpieczeństwo
