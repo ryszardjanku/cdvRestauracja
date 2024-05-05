@@ -12,6 +12,13 @@
 
 ## Menu obiadowe
 
+### Przekąski
+
+- Kruche quiche - 19zł
+- Ptasie mleczko z kremem ziołowym - 19zł
+
+<img src = "zdjecia/quiche.jpg" width=150>
+
 ### Zupy
 - Zupa cebulowa 25zł
 - Bulion 19zł
@@ -23,6 +30,7 @@
 - Udko z kaczki 45zł
 - Ragout z królika 55zł
 - Jagnięcina z navarin warzywnym 75zł
+- Boeuf Bourguignon 75zł
 
 <img src = "zdjecia/pobrane.jpg" width=150>
 
@@ -34,8 +42,9 @@
 
 ## Desery
 
-- Tiramisu 35zł
+- Tiramisu 25zł
 - Creme brulee 25zł
+- Tarta z owocami sezonowymi - 35zł
 
 <img src = "zdjecia/tiramisu-dysfagia.jpg" width=150>
 
